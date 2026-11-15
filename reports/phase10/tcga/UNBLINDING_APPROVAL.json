@@ -3,7 +3,7 @@
   "freeze_commit": "2c4ef3aaefa24af997d8678c0aa8fb306357090d",
   "approved_utc": "2026-11-09T17:25:47Z",
   "approved_by": "project owner (Prasad Akula)",
-  "authorisation": "Owner instruction in the Claude Code session on 2026-11-09: finish the project in auto mode through deployment, which includes unblinding the TCGA labels after the committed freeze.",
+  "authorisation": "Owner instruction on 2026-11-09: finish the project in auto mode through deployment, which includes unblinding the TCGA labels after the committed freeze.",
   "scope": "single evaluation of the frozen Track B models on the registered TCGA-COAD stage II-III population",
   "deviation_1": "First evaluation attempt (manifest 69918752...) stopped in calibration before any metric; re-frozen with byte-identical models."
 }
