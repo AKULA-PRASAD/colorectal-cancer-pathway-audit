@@ -24,9 +24,9 @@ survival = ["lifelines>=0.27"]
 test = ["pytest>=7"]
 
 [project.urls]
-Homepage = "https://akula-prasad.github.io/pathway-score-audit-crc/"
-Repository = "https://github.com/AKULA-PRASAD/pathway-score-audit-crc"
-Documentation = "https://github.com/AKULA-PRASAD/pathway-score-audit-crc/tree/phase9-corrected-pipeline/tools/pathway-audit"
+Homepage = "https://akula-prasad.github.io/colorectal-cancer-pathway-audit/"
+Repository = "https://github.com/AKULA-PRASAD/colorectal-cancer-pathway-audit"
+Documentation = "https://github.com/AKULA-PRASAD/colorectal-cancer-pathway-audit/tree/phase9-corrected-pipeline/tools/pathway-audit"
 
 [project.scripts]
 pathway-audit = "pathway_audit.cli:main"

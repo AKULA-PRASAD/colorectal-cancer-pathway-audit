@@ -109,3 +109,6 @@ On 8 November 2026 the project owner approved decisions D1–D5 as recommended a
 - **Visibility:** the owner approved making `AKULA-PRASAD/pathway-score-audit-crc` public.
 - **Per-sample data:** the owner decided to keep the per-sample tables (all derived from public GEO, TCGA and single-cell data) in the public repository.
 - **Website:** published on GitHub Pages at https://akula-prasad.github.io/pathway-score-audit-crc/.
+
+## 15 November 2026: repository name
+- **Name:** the owner approved renaming the repository to `AKULA-PRASAD/colorectal-cancer-pathway-audit`, so the name is clear to non-specialist readers. The website is now at https://akula-prasad.github.io/colorectal-cancer-pathway-audit/; earlier entries keep the name in force at the time.

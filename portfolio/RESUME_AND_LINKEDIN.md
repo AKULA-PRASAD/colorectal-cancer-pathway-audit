@@ -37,7 +37,7 @@ I built pathway-audit, a tested Python tool that checks what a cancer pathway sc
 - Pathway activity or protein function.
 - Tumour-cell EMT, or that the EMT score "is not" tumour-cell EMT: bulk data cannot separate the two.
 - External validation of the prediction model.
-- A PyPI package or published container image: neither exists. The repository is public (https://github.com/AKULA-PRASAD/pathway-score-audit-crc), MIT-licensed and CI passes; the Docker image builds and runs locally (tests and demo pass inside it) but is not on a registry.
+- A PyPI package or published container image: neither exists. The repository is public (https://github.com/AKULA-PRASAD/colorectal-cancer-pathway-audit), MIT-licensed and CI passes; the Docker image builds and runs locally (tests and demo pass inside it) but is not on a registry.
 - Scanpy-based analysis: the single-cell work used pandas, SciPy and h5py directly.
 - "Novel algorithm": the tool combines established methods in a new, tested workflow.
 - A "validated dMMR classifier" or a clinical MSI test. The TCGA result is an independent-cohort, cross-platform evaluation with related but non-identical PCR-MSI labels, and it used target-cohort gene standardisation, which is not a single-patient pipeline.

@@ -2,6 +2,9 @@
 
 How the project developed, using the dates recorded in the commits and in each document. Work was developed in the working tree and committed in logical groups after the owner reviewed it, which is why several commits share a timestamp.
 
+## 2026-11-15: repository renamed
+- Repository renamed from `pathway-score-audit-crc` to `colorectal-cancer-pathway-audit`; the website moved to https://akula-prasad.github.io/colorectal-cancer-pathway-audit/. Old repository links redirect; links in this changelog's earlier entries use the name in force at the time.
+
 ## 2026-11-09: public release
 - Release v1.0.0: project snapshot with the slide deck and the `pathway-audit` 0.2.0 wheel and source distribution attached.
 - Repository made public: https://github.com/AKULA-PRASAD/pathway-score-audit-crc.

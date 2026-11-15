@@ -6,8 +6,8 @@ authors:
     given-names: Prasad
     affiliation: "MS in Bioinformatics, Northeastern University"
 license: MIT
-repository-code: "https://github.com/AKULA-PRASAD/pathway-score-audit-crc"
-url: "https://akula-prasad.github.io/pathway-score-audit-crc/"
+repository-code: "https://github.com/AKULA-PRASAD/colorectal-cancer-pathway-audit"
+url: "https://akula-prasad.github.io/colorectal-cancer-pathway-audit/"
 version: 1.0.0
 date-released: 2026-11-09
 keywords: [colorectal cancer, transcriptomics, survival analysis, optimism correction, pathway scores, tumour microenvironment]

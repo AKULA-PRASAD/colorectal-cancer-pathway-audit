@@ -92,7 +92,7 @@ Status key (one status per requirement):
 
 ## 2. Owner actions
 1. Open the PPTX in PowerPoint or Keynote and work through the checklist in section 3 (resolves P6).
-2. Share the public website, https://akula-prasad.github.io/pathway-score-audit-crc/ (GitHub Pages), rather than the private web-page link, which cannot be opened outside the organisation.
+2. Share the public website, https://akula-prasad.github.io/colorectal-cancer-pathway-audit/ (GitHub Pages), rather than the private web-page link, which cannot be opened outside the organisation.
 3. R4 and R5 are decided; the repository is public.
 
 ## 3. Manual PPTX checklist
